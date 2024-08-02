@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with improving my back-end development skills to become a full-stack developer.
 - 💬 Ask me about React, front-end development, user interface design, or anything web-related!
 - 📫 How to reach me: [email@gmail.com](zeynepkaparr99@gmail.com)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love combining my passion for coding with my creativity in designing interactive and engaging user experiences!
 
 Let's connect and create something amazing together!

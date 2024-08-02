@@ -1,4 +1,4 @@
- Hi there 👋
+## Hi there 👋
  
 - 🔭 I’m currently working on enhancing my React and front-end development skills by building dynamic and responsive web applications.
 - 🌱 I’m currently learning advanced JavaScript concepts, performance optimization techniques, and exploring the latest React features.

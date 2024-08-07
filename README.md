@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Zeynep KAPAR !
  
-- 🔭 I’m currently working on enhancing my React and front-end development skills by building dynamic and responsive web applications.
-- 🌱 I’m currently learning advanced JavaScript concepts, performance optimization techniques, and exploring the latest React features.
-- 👯 I’m looking to collaborate on innovative React projects, open-source contributions, and front-end development initiatives.
-- 🤔 I’m looking for help with improving my back-end development skills to become a full-stack developer.
-- 💬 Ask me about React, front-end development, user interface design, or anything web-related!
+- 🎳 I am currently studying sociology and at the same time, I continue my journey in a process where I focus on improving myself.
+- 🔭 I continue to improve my skills with React, Javascript, React Native.
+- 🌱 You can ask me questions about my relevant areas: React JS, React Native, Javascript.
+- 👯 Effective communication is the most fundamental step for me in successfully completing individual and group work!
 - 📫 How to reach me:[zeynepkaparr99@gmail.com](mailto:email@gmail.com)
-- ⚡ I love combining my passion for coding with my creativity in designing interactive and engaging user experiences!
 
-Let's connect and create something amazing together!
+
+⏳ Come on, contact me and let's create something amazing together!
+
 
